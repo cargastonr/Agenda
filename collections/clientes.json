@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "61d60dbc1e19052669044664"
+  },
+  "nroDoc": "54873687",
+  "tipoDoc": "dni",
+  "nombres": "sofia",
+  "apellidos": "guzman",
+  "celular": 956324701,
+  "razonSocial": "MEMORIAS.RAM SAC",
+  "_class": "com.proyecto1.clientes.Entidad.Cliente"
+},{
+  "_id": {
+    "$oid": "61d611824b0ec55d1ebb2cb8"
+  },
+  "nroDoc": "4978620",
+  "tipoDoc": "dni",
+  "nombres": "rogelia",
+  "apellidos": "sanchez",
+  "celular": 1245612,
+  "razonSocial": "floreeria rogelia",
+  "_class": "com.tdp.genesis.proyecto.Entidad.Cliente"
+},{
+  "_id": {
+    "$oid": "61d62a6333ce193ec3e8c175"
+  },
+  "nroDoc": "4978620",
+  "tipoDoc": "dni",
+  "nombres": "rosa",
+  "apellidos": "flores",
+  "celular": 965478512,
+  "razonSocial": "tienda rosita",
+  "_class": "com.proyecto1.clientes.Entidad.Cliente"
+},{
+  "_id": {
+    "$oid": "61d62a7033ce193ec3e8c176"
+  },
+  "nroDoc": "4978620",
+  "tipoDoc": "dni",
+  "nombres": "rosa",
+  "apellidos": "flores",
+  "celular": 965478512,
+  "razonSocial": "tienda rosita",
+  "_class": "com.proyecto1.clientes.Entidad.Cliente"
+},{
+  "_id": {
+    "$oid": "61d62a7933ce193ec3e8c177"
+  },
+  "nroDoc": "4978620",
+  "tipoDoc": "dni",
+  "nombres": "rosa",
+  "apellidos": "flores",
+  "celular": 965478512,
+  "razonSocial": "tienda ",
+  "_class": "com.proyecto1.clientes.Entidad.Cliente"
+}]
